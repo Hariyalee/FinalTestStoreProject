@@ -15,6 +15,7 @@ public class Practice {
 		driver.get("https://automationtesting.co.uk/");
 
 		System.out.println("Completed");
+		System.out.println("GitHub TestProject2");
 
 		driver.quit();
 	}
