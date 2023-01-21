@@ -11,7 +11,7 @@ public class Practice {
 
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
-
+		// TRYING TO TEST GITHUB
 		driver.get("https://automationtesting.co.uk/");
 
 		System.out.println("Completed");
