@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-03T17:10:37 EDT" name="Default suite" finished-at="2023-05-03T17:12:25 EDT" duration-ms="107344">
+  <suite started-at="2023-05-03T19:48:51 EDT" name="Default suite" finished-at="2023-05-03T19:50:41 EDT" duration-ms="109788">
     <groups>
     </groups>
-    <test started-at="2023-05-03T17:10:37 EDT" name="Default test" finished-at="2023-05-03T17:12:25 EDT" duration-ms="107344">
+    <test started-at="2023-05-03T19:48:51 EDT" name="Default test" finished-at="2023-05-03T19:50:41 EDT" duration-ms="109788">
       <class name="ca.orbit5.project.OrderCompleteTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:ca.orbit5.project.OrderCompleteTest@63376bed]" started-at="2023-05-03T17:10:37 EDT" name="setup" finished-at="2023-05-03T17:10:55 EDT" duration-ms="17838" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ca.orbit5.project.OrderCompleteTest@63376bed]" started-at="2023-05-03T19:48:51 EDT" name="setup" finished-at="2023-05-03T19:49:10 EDT" duration-ms="18744" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="endtoEndTest()[pri:0, instance:ca.orbit5.project.OrderCompleteTest@63376bed]" started-at="2023-05-03T17:10:55 EDT" name="endtoEndTest" finished-at="2023-05-03T17:12:24 EDT" duration-ms="89268" status="PASS">
+        <test-method signature="endtoEndTest()[pri:0, instance:ca.orbit5.project.OrderCompleteTest@63376bed]" started-at="2023-05-03T19:49:10 EDT" name="endtoEndTest" finished-at="2023-05-03T19:50:41 EDT" duration-ms="90827" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endtoEndTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:ca.orbit5.project.OrderCompleteTest@63376bed]" started-at="2023-05-03T17:12:24 EDT" name="teardown" finished-at="2023-05-03T17:12:25 EDT" duration-ms="171" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ca.orbit5.project.OrderCompleteTest@63376bed]" started-at="2023-05-03T19:50:41 EDT" name="teardown" finished-at="2023-05-03T19:50:41 EDT" duration-ms="171" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
